@@ -31,6 +31,9 @@ gem 'uglifier', '4.2.0'
 # Devise para autenticación
 gem 'devise', '= 4.7.3'
 
+# Paperclip
+gem 'paperclip', '~> 6.1.0'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
