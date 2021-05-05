@@ -171,4 +171,8 @@ end
 
 ---
 
+pusheado a S3
+
+---
+
 rails generate migration add_images_to_pin
