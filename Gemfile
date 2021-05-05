@@ -34,6 +34,14 @@ gem 'devise', '= 4.7.3'
 # Paperclip
 gem 'paperclip', '~> 6.1.0'
 
+# Masonry y jquery-turbolinks
+gem 'masonry-rails', '~> 0.2.4'
+gem 'jquery-turbolinks'
+
+# Paginación
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
